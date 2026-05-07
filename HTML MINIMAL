@@ -1,0 +1,5 @@
+<input id="email" placeholder="Email" />
+<input id="password" type="password" placeholder="Password" />
+
+<button id="registerBtn">Register</button>
+<button id="loginBtn">Login</button>
